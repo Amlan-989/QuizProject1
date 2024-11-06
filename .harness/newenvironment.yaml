@@ -1,0 +1,8 @@
+environment:
+  name: new-environment
+  identifier: newenvironment
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: Manisha
